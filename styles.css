@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+    font-family: fantasy;
+    font-weight: 400;
+    border: 2px solid silver;
+    padding: 30px;
+    margin: 50px;
+}
+
+h2 {
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+p {
+    color:black;
+    font-family: Courier;
+    font-size: 160%;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
